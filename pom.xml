@@ -18,7 +18,7 @@
         <java.version>1.8</java.version>
         <webmagic.version>0.7.3</webmagic.version>
         <guava.version>28.1-jre</guava.version>
-        <fastjson.version>1.2.62</fastjson.version>
+        <fastjson.version>1.2.83</fastjson.version>
         <hutool.version>5.1.0</hutool.version>
         <httpcomponents-client.version>4.5.2</httpcomponents-client.version>
         <httpcomponents-core.version>4.4.4</httpcomponents-core.version>
